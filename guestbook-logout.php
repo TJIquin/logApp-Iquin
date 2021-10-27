@@ -1,0 +1,5 @@
+<?php
+   # destroy session
+
+    
+?>
